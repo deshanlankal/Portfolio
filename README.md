@@ -50,14 +50,6 @@ You can view a live demo of the website [here](#).
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Acknowledgements
-
-- **Terminal CSS**: [Insert source if applicable]
-- **JavaScript Libraries**: [Insert any libraries or resources used]
-
-## Contact
-
-For any inquiries or feedback, feel free to reach out to me at [deshanlanka500@gmail.com](mailto:deshanlanka500@gmail.com).
 
 ---
 
