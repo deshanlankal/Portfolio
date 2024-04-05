@@ -57,8 +57,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For any inquiries or feedback, feel free to reach out to me at [your-email@example.com](mailto:deshanlanka500@gmail.com).
+For any inquiries or feedback, feel free to reach out to me at [deshanlanka500@gmail.com](mailto:deshanlanka500@gmail.com).
 
 ---
 
-Replace placeholders like `your-username`, `your-email@example.com`, and `[Insert source if applicable]` with appropriate information. Additionally, replace `[here](#)` with the actual link to your live demo if available. Include any additional sections or details as needed.
