@@ -42,10 +42,9 @@ You can view a live demo of the website [here](#).
 
 ## Screenshots
 
-- screenshots
-    - screenshot1.PNG
-    - screenshot2.PNG
-    - screenshot3.PNG
+![Screenshot 1](screenshot1.png)
+![Screenshot 2](screenshot2.png)
+![Screenshot 3](screenshot3.png)
 
 ## License
 
